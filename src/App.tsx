@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div>
-      mkwel
+       burası react ts
     </div>
   )
 }
