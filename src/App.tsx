@@ -1,11 +1,11 @@
 import './App.css';
-
+import Header from './header';
 
 function App() {
 
   return (
     <div>
-       burası react ts
+       <Header />
     </div>
   )
 }

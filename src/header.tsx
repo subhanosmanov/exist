@@ -1,9 +1,9 @@
 import React from 'react'
 
-function header() {
+function Header() {
   return (
-    <div>header</div>
+    <div>header deyısıldı!</div>
   )
 }
 
-export default header;
+export default Header;
